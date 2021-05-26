@@ -8,6 +8,8 @@
 
 [National Cyber Scholarship Competition Writeup](/National-Cyber-Scholarship-Competition-Writeup) A writeup for the 2021 National Cyber Scholarship Competition.
 
+[Choose Your Own Adventure: Crime and Punishment](/cyoa-crime-and-punishment) A WASM-based game written in Rust for the novel Crime and Punishment by Fyodor Dostoevsky
+
 ## Projects Not Hosted Here But Are Still Cool
 
 [Discord Cowsay Bot](https://github.com/sambhavsaggi/discord-cowsay-bot) A simple bot that runs the iconic `cowsay` program, but in Discord.
