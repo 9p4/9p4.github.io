@@ -8,6 +8,8 @@
 
 [National Cyber Scholarship Competition Writeup](/National-Cyber-Scholarship-Competition-Writeup) A writeup for the 2021 National Cyber Scholarship Competition.
 
+[SMBC Comic Fulltext Search](/comic-fulltext-search) A program to fuzzy search through SMBC comics. Done completely in the frontend.
+
 ## Projects Not Hosted Here But Are Still Cool
 
 [Discord Cowsay Bot](https://github.com/sambhavsaggi/discord-cowsay-bot) A simple bot that runs the iconic `cowsay` program, but in Discord.
