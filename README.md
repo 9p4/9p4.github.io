@@ -1,6 +1,6 @@
-# Sambhav's Projects
+# My Projects
 
-My actual website is at [sambhav.saggis.com](https://sambhav.saggis.com). The website you are on right now is only to showcase some of my projects that I don't want to host anywhere else.
+My actual website is at [ersei.saggis.com](https://ersei.saggis.com). The website you are on right now is only to showcase some of my projects that I don't want to host anywhere else.
 
 ## Projects Hosted Here
 
