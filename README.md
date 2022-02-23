@@ -16,10 +16,12 @@ My actual website is at [ersei.saggis.com](https://ersei.saggis.com). The websit
 
 ## Projects Not Hosted Here But Are Still Cool
 
-[Discord Cowsay Bot](https://github.com/sambhavsaggi/discord-cowsay-bot) A simple bot that runs the iconic `cowsay` program, but in Discord.
+[Discord Cowsay Bot](https://github.com/9p4/discord-cowsay-bot) A simple bot that runs the iconic `cowsay` program, but in Discord.
 
-[anti ARP](https://github.com/sambhavsaggi/anti-arp) Floods the network with ARP packets to counter the ones sent by parental control devices (Disney Circle, etc).
+[Anti ARP](https://github.com/9p4/anti-arp) Floods the network with ARP packets to counter the ones sent by parental control devices (Disney Circle, etc).
 
-[BotsBurgh 2020-21](https://github.com/BotsBurgh/BOTSBURGH-FTC-2020-21) Robotics code for FTC season 2020-21.
+[BotsBurgh 2021-22](https://github.com/BotsBurgh/BOTSBURGH-FTC-2021-22) Robotics code for FTC season 2021-22.
 
-[NMAP XML Vulns](https://github.com/sambhavsaggi/nmap-xml-vulners) Gets vulnerabilities from an NMAP XML file and makes it into a pretty PDF.
+[NMAP XML Vulns](https://github.com/9p4/nmap-xml-vulners) Gets vulnerabilities from an NMAP XML file and makes it into a pretty PDF.
+
+[Jellyfin SSO Plugin](https://github.com/9p4/jellyfin-plugin-sso) This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin for Jellyfin.
